@@ -74,6 +74,3 @@ Python · pandas · NumPy · scikit-learn · matplotlib · seaborn
 - `confusion_matrices.png`, `roc_curves.png`, `feature_importance.png` — result figures
 - Dataset: download `heart.csv` from [Kaggle](https://www.kaggle.com/datasets/fedesoriano/heart-failure-prediction) and place it next to the script
 
-## Team
-
-Group project (4 students), supervised by Dr. Moudy Alshareef.
